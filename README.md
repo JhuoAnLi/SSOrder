@@ -1,6 +1,6 @@
-CUGR 2.0
+SSOrder
 ======================================
-CUGR 2.0, the successor of [CUGR](https://github.com/cuhk-eda/cu-gr), is a VLSI global routing tool developed by the research team supervised by Prof. Evangeline F. Y. Young at The Chinese University of Hong Kong (CUHK).
+Rewrite from CUGR 2.0, the successor of [CUGR](https://github.com/cuhk-eda/cu-gr), is a VLSI global routing tool developed by the research team supervised by Prof. Evangeline F. Y. Young at The Chinese University of Hong Kong (CUHK).
 CUGR 2.0 is a detailed routability-driven global router and its solution quality is solely determined by the final detailed routing results.
 
 Please read our paper for more technical details:
